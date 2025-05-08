@@ -60,9 +60,9 @@ Application Flutter permettant d'afficher la météo actuelle et les prévisions
 
 Voici quelques captures d'écran de l'application :
 
-<img src="https://github.com/user-attachments/assets/afd8732e-2ad6-4a6c-854d-2b02492c45b5" alt="screenshot1" width="300"/>
-<img src="https://github.com/user-attachments/assets/29f2971a-97e0-425a-a179-3a8d3866fded" alt="screenshot2" width="300"/>
-<img src="https://github.com/user-attachments/assets/6fe80c3e-378c-4e6e-bad0-3a77683796c6" alt="screenshot3" width="300"/>
+<img src="https://github.com/user-attachments/assets/afd8732e-2ad6-4a6c-854d-2b02492c45b5" alt="screenshot1" width="280"/>
+<img src="https://github.com/user-attachments/assets/29f2971a-97e0-425a-a179-3a8d3866fded" alt="screenshot2" width="280"/>
+<img src="https://github.com/user-attachments/assets/6fe80c3e-378c-4e6e-bad0-3a77683796c6" alt="screenshot3" width="280"/>
 
 ---
 
